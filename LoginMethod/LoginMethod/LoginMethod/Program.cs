@@ -6,7 +6,9 @@ namespace LoginMethod
     {
         static void Main(string[] args)
         {
-            Login user1 = new Login("cavid123", "Cavid1993");
+            Login user1 = new Login();
+
+            user1.LoginResult();
         }
     }
 }

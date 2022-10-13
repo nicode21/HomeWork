@@ -6,9 +6,18 @@ namespace LoginMethod
 {
     class Login
     {
-        public Login(string username , string password)
+
+        public void LoginResult()
         {
-            if (username == "cavid123" && password == "Cavid1993")
+            string username = "";
+
+            string password = "";
+
+            string fullname = username+password;
+
+            fullname = Login1(username, password);
+
+            if (fullname==fullname)
             {
                 Console.WriteLine("Login was complate Successful");
             }
@@ -16,6 +25,23 @@ namespace LoginMethod
             {
                 Console.WriteLine("Your email or password not correct!");
             }
+        }         
+
+        public string Login1(string username, string passWord)
+        {
+            string fullname = "";
+
+            username = Console.ReadLine();
+            passWord = Console.ReadLine();
+
+            
+
+            fullname = username + passWord;
+            
+            return fullname;
+            
         }
+
+      
     }
 }
