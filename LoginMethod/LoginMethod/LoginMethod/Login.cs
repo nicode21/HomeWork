@@ -17,7 +17,7 @@ namespace LoginMethod
 
             fullname = Login1(username, password);
 
-            if (fullname==fullname)
+            if (fullname=="cavid123Cavid1993")
             {
                 Console.WriteLine("Login was complate Successful");
             }
