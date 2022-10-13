@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\bin\Debug\netcoreapp3.1\MathFactorial.exe
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\bin\Debug\netcoreapp3.1\MathFactorial.deps.json
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\bin\Debug\netcoreapp3.1\MathFactorial.runtimeconfig.json
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\bin\Debug\netcoreapp3.1\MathFactorial.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\bin\Debug\netcoreapp3.1\MathFactorial.dll
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\bin\Debug\netcoreapp3.1\MathFactorial.pdb
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.dll
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.pdb
+C:\Users\User\Desktop\Materials\HomeWorks\MathFactorial\MathFactorial\MathFactorial\obj\Debug\netcoreapp3.1\MathFactorial.genruntimeconfig.cache

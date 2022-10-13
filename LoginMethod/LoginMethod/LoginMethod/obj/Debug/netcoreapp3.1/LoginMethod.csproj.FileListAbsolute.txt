@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\bin\Debug\netcoreapp3.1\LoginMethod.exe
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\bin\Debug\netcoreapp3.1\LoginMethod.deps.json
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\bin\Debug\netcoreapp3.1\LoginMethod.runtimeconfig.json
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\bin\Debug\netcoreapp3.1\LoginMethod.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\bin\Debug\netcoreapp3.1\LoginMethod.dll
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\bin\Debug\netcoreapp3.1\LoginMethod.pdb
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.dll
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.pdb
+C:\Users\User\Desktop\Materials\HomeWorks\LoginMethod\LoginMethod\LoginMethod\obj\Debug\netcoreapp3.1\LoginMethod.genruntimeconfig.cache
