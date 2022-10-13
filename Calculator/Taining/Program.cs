@@ -6,8 +6,8 @@ namespace Taining
     {
         static void Main(string[] args)
         {
-            Calculator name = new Calculator();
-            name.Result();
+            Calculator num = new Calculator();
+            num.Result();
         }
     }
 }

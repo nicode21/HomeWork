@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\bin\Debug\netcoreapp3.1\TrainingForLesson.exe
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\bin\Debug\netcoreapp3.1\TrainingForLesson.deps.json
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\bin\Debug\netcoreapp3.1\TrainingForLesson.runtimeconfig.json
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\bin\Debug\netcoreapp3.1\TrainingForLesson.runtimeconfig.dev.json
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\bin\Debug\netcoreapp3.1\TrainingForLesson.dll
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\bin\Debug\netcoreapp3.1\TrainingForLesson.pdb
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.AssemblyInfo.cs
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.dll
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.pdb
+C:\Users\User\Desktop\Materials\HomeWorks\TrainingForLesson\TrainingForLesson\TrainingForLesson\obj\Debug\netcoreapp3.1\TrainingForLesson.genruntimeconfig.cache
